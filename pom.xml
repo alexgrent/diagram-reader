@@ -10,7 +10,7 @@
 
     <groupId>org.reactome.server.tools</groupId>
     <artifactId>diagram-reader</artifactId>
-    <version>1.2.5</version>
+    <version>3.0.9</version>
     <packaging>jar</packaging>
 
     <name>Diagram Reader</name>
